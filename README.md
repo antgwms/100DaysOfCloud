@@ -2,32 +2,18 @@
   <img src="banner.png">
 </p>
 
-## The Challenge
-1. Read about the challenge and register at [#100DaysOfCloud.com](https://100DaysOfCloud.com)
-2. Join the [Discord Channel](https://discord.gg/c6Db8nY)
-3. Copy the [100DaysOfCloud/100DaysOfCloud Journey Template](https://github.com/100DaysOfCloud/100DaysOfCloud/generate)
-4. Use the [Micro](Templates/000-DAY-ARTICLE-MICRO-TEMPLATE.md), [Short](Templates/001-DAY-ARTICLE-SHORT-TEMPLATE.md) or [Long](Templates/002-DAY-ARTICLE-LONG-TEMPLATE.md) Day Journey Template and document your day-to-day progress.
-5. Update your main README to link back to your Day Journey article
-4. If you need ideas go to [#100DaysOfCloudIdeas](https://github.com/100DaysOfCloud/100DaysOfCloudIdeas)
+## Anthony's Cloud Journey
+My name is Anthony, a master of computing graduate working in IT. I studied Java, databases and networking and have knowledge of SharePoint, docker, AWS, Azure and HTML, Unix, Linux, Python, C++ from previous study and projects. I've been learning Android Development during the lockdown while deciding my path, which has been really useful to improve my java and learn XML.
 
-## How to use this template:
-Fill in your details where you see this icon ✍️
-We have provided a sample Day Journey entry staring at 0. You can delete this example.
+I've started the challenge after deciding my future is cloud engineering, a domain that I can utilise my knowledge, skills and creativity. I was inspired to join #100DaysOfCloud by Gwyneth Peña-Siguenza and believe the challenge will enable me to organise my learning, embed skills and provide direction for my development.
 
-## [✍️ Your Name]'s Cloud Journey
+<a href="https://twitter.com/antgwms">Twitter
 
-[✍️ Introduce yourself]
+<a href="https://www.linkedin.com/in/antgwms">LinkedIn
 
-[✍️ Tell us why you started this challenge]
+## Cloud Fundamentals
 
-[✍️ Tell us where you want to be at the end of the challenge]
-
-- [✍️ Link to your Twitter](https://twitter.com/username)
-- [✍️ Link to your LinkedIn](https://www.linkedin.com/in/username)
-
-## Stepping out the door
-
-- [ ] ☁️ 1 > [My First Day](Journey/001/Readme.md)
+- [ ] ☁️ 1 > [Day Zero - first step](Journey/001/Readme.md)
 - [ ] ☁️ 2 > [](Journey/002/Readme.md)
 - [ ] ☁️ 3 > [](Journey/003/Readme.md)
 - [ ] ☁️ 4 > [](Journey/004/Readme.md)
