@@ -1,52 +1,39 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
+## Microsoft Power Platform
+![Platform image](Journey/002/power-platform.png)
 
-# New post title here
+# Microsoft Power Platform Fundamentals
 
 ## Introduction
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
+Power Platform was chosen due to it's relevant to my current that includes SharePoint, Dynamics 365 and Power BI. 
 
 ## Prerequisite
 
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
+A Micosoft account.
 
 ## Use Case
 
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
+Automate Business processes.
+Power Automate can be used to automate administrative tasks using workflows and connect to Power Apps in the Power Platform. 
 
-## Cloud Research
+## Day's Study
 
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
+Completed two modules:
+1. Introduction to Power Platform
+2. Introduction to Dataverse
 
-## Try yourself
-
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 3 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
+![Dataverse](Journey/002/dataverse-CommonDataService.png)
 
 ## ☁️ Cloud Outcome
 
-✍️ (Result) Describe your personal outcome, and lessons learned.
+1. Learnt the components and features of the Power Platform, identify each component application to create business solutions and its value. 
+
+2. Learn about the basics of Dataverse and explore ways you can connect and customize data connections to Power Platform applications.
 
 ## Next Steps
 
-✍️ Describe what you think you think you want to do next.
+Introduction to Power Apps
 
-## Social Proof
+## Proof
 
-✍️ Show that you shared your process on Twitter or LinkedIn
-
-[link](link)
+1800 XP
