@@ -7,7 +7,7 @@
 
 ## Introduction
 
-Power Platform was chosen due to it's relevant to my current that includes SharePoint, Dynamics 365 and Power BI. 
+Power Platform was chosen due to it's relevance to my current work that includes SharePoint, Dynamics 365 and Power BI. 
 
 ## Prerequisite
 
