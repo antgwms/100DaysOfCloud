@@ -1,5 +1,7 @@
 ## Microsoft Power Platform
-![Platform image](Journey/002/power-platform.png)
+<p align="center">
+  <img src="power-platform.png">
+</p>
 
 # Microsoft Power Platform Fundamentals
 
@@ -22,13 +24,15 @@ Completed two modules:
 1. Introduction to Power Platform
 2. Introduction to Dataverse
 
-![Dataverse](Journey/002/dataverse-CommonDataService.png)
+<p align="center">
+  <img src="dataverse-CommonDataService.png">
+</p>
 
 ## ☁️ Cloud Outcome
 
 1. Learnt the components and features of the Power Platform, identify each component application to create business solutions and its value. 
 
-2. Learn about the basics of Dataverse and explore ways you can connect and customize data connections to Power Platform applications.
+2. Learnt about the basics of Dataverse and explore ways you can connect and customize data connections to Power Platform applications.
 
 ## Next Steps
 
