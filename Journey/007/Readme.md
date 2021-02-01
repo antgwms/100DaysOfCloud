@@ -1,6 +1,6 @@
 ## Introduction to Power Automate
 
-Today I skipped on to the Power Automate module, which used to be called Mictosoft Flow. 
+Today I skipped on to the Power Automate module, which used to be called Microsoft Flow. 
 
 Spent an hour updating github.
 
