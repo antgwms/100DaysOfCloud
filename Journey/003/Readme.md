@@ -1,27 +1,15 @@
 # Introduction to Power Apps
 
-## Introduction
+Started late today so just started Introduction to Power Apps module 
 
-Started late today so just started Introduction to Power Apps module.
+## Summary
+
+Intro to Power apps and what it can do for you.
 
 ## Try yourself
 
-Summary to follow...
+[Microsoft Learn - Introduction to Power Apps](https://docs.microsoft.com/en-gb/learn/modules/introduction-power-apps/)
 
-### Step 1 — Summary of Step
-
-
-
-## ☁️ Cloud Outcome
-
-✍️ (Result) Describe your personal outcome, and lessons learned.
-
-## Next Steps
-
-✍️ Describe what you think you think you want to do next.
-
-## Social Proof
-
-✍️ Show that you shared your process on Twitter or LinkedIn
-
-[link](link)
+<p align="centre">
+  <image src="WhatIsPowerApps.jpg">
+</p>

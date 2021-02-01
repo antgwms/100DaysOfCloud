@@ -3,7 +3,7 @@
 </p>
 
 ## Anthony's Cloud Journey
-My name is Anthony, a master of computing graduate working in IT. I studied Java, databases and networking and have knowledge of SharePoint, docker, AWS, Azure and HTML, Unix, Linux, Python, C++ from previous study and projects. I've been learning Android Development during the lockdown while deciding my path, which has been really useful to improve my java and learn XML.
+My name is Anthony, a master of computing graduate working in IT. I studied Java, databases and networking and have knowledge of SharePoint, Azure, AWS, docker and various programming languages from previous study and projects. I've been learning Android Development during the lockdown while deciding my path, which has been really useful to improve my java and learn XML.
 
 I've started the challenge after deciding my future is cloud engineering, a domain that I can utilise my knowledge, skills and creativity. I was inspired to join #100DaysOfCloud by Gwyneth Peña-Siguenza and believe the challenge will enable me to organise my learning, embed skills and provide direction for my development.
 
@@ -15,11 +15,11 @@ I've started the challenge after deciding my future is cloud engineering, a doma
 
 - [ ] ☁️ 1 > [Day Zero - first step](Journey/001/Readme.md)
 - [ ] ☁️ 2 > [Day 2 - Microsoft Power Platform & Dataverse](Journey/002/Readme.md)
-- [ ] ☁️ 3 > [Day 3 - Started Introduction to Apps](Journey/003/Readme.md)
-- [ ] ☁️ 4 > [](Journey/004/Readme.md)
-- [ ] ☁️ 5 > [](Journey/005/Readme.md)
-- [ ] ☁️ 6 > [](Journey/006/Readme.md)
-- [ ] ☁️ 7 > [](Journey/007/Readme.md)
+- [ ] ☁️ 3 > [Day 3 - Introduction to Power Apps (start)](Journey/003/Readme.md)
+- [ ] ☁️ 4 > [Day 4 - Introduction to Power Apps (complete)](Journey/004/Readme.md)
+- [ ] ☁️ 5 > [Day 5 - How to build a Canvas App](Journey/005/Readme.md)
+- [ ] ☁️ 6 > [Day 6 Off](Journey/006/Readme.md)
+- [ ] ☁️ 7 > [Day 7 - Introduction to Power Automate](Journey/007/Readme.md)
 - [ ] ☁️ 8 > [](Journey/008/Readme.md)
 - [ ] ☁️ 9 > [](Journey/009/Readme.md)
 - [ ] ☁️ 10 > [](Journey/010/Readme.md)
