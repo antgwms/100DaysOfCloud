@@ -21,13 +21,10 @@ I've started the challenge after deciding my future is cloud engineering, a doma
 - [ ] ☁️ 6 > [Day 6 Off](Journey/006/Readme.md)
 - [ ] ☁️ 7 > [Day 7 - Introduction to Power Automate](Journey/007/Readme.md)
 - [ ] ☁️ 8 > [Day 8 - Introduction to Power App Portals](Journey/008/Readme.md)
-- [ ] ☁️ 9 > [](Journey/009/Readme.md)
-- [ ] ☁️ 10 > [](Journey/010/Readme.md)
-
-## Walking down the road
-
-- [ ] ☁️ 11 > [](Journey/011/Readme.md)
-- [ ] ☁️ 12 > [](Journey/012/Readme.md)
+- [ ] ☁️ 9 > [Day 9 Off](Journey/009/Readme.md)
+- [ ] ☁️ 10 > [Day 10 Off](Journey/010/Readme.md)
+- [ ] ☁️ 11 > [Day 11 Off](Journey/011/Readme.md)
+- [ ] ☁️ 12 > [Day 12 - How to build a model-driven app](Journey/012/Readme.md)
 - [ ] ☁️ 13 > [](Journey/013/Readme.md)
 - [ ] ☁️ 14 > [](Journey/014/Readme.md)
 - [ ] ☁️ 15 > [](Journey/015/Readme.md)
