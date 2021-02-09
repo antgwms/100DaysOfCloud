@@ -26,7 +26,7 @@ I've started the challenge after deciding my future is cloud engineering, a doma
 - [ ] ☁️ 11 > [Day 11 Off](Journey/011/Readme.md)
 - [ ] ☁️ 12 > [Day 12 - How to build a model-driven app](Journey/012/Readme.md)
 - [ ] ☁️ 13 > [](Journey/013/Readme.md)
-- [ ] ☁️ 14 > [](Journey/014/Readme.md)
+- [ ] ☁️ 14 > [Day 14 - Introduction to Power BI](Journey/014/Readme.md)
 - [ ] ☁️ 15 > [](Journey/015/Readme.md)
 - [ ] ☁️ 16 > [](Journey/016/Readme.md)
 - [ ] ☁️ 17 > [](Journey/017/Readme.md)
