@@ -1,52 +1,26 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
+# Introduction to Amazon Web services & EC2 instances
 
-# New post title here
+I'm currently studying the AWS Cloud Practitioner Essentials that starts with 'Introduction to Amazon Web Service' the Cloud Compute with EC2 servicer instances and dependancies.
 
-## Introduction
-
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
+From this point onwards I am not even going to try updating a readme everyday because daily is too much of a commitment, although I'll continue with study and record progress. 
 
 ## Prerequisite
 
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
+IT knowledge is helpful, however AWS Training is informative using analogy and visual information which makes it easier to consume, regardless of your starting level.
+
+## Cloud progress
+
+Module 1: Introduction to AWS - short and sweet
+
+Module 2: Compute in the Cloud - introduces EC2 server instances:
+
+1. EC2 Types
+2. Amazon EC2 Pricing
+3. EC2 Scaling 
+4. EC2 Load Balancing
+
+Halfway throgh Module 2.
 
 ## Use Case
 
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
-
-## Cloud Research
-
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
-
-## Try yourself
-
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 3 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-## ☁️ Cloud Outcome
-
-✍️ (Result) Describe your personal outcome, and lessons learned.
-
-## Next Steps
-
-✍️ Describe what you think you think you want to do next.
-
-## Social Proof
-
-✍️ Show that you shared your process on Twitter or LinkedIn
-
-[link](link)
+EC2 can be used for hosting services, such as websites or private server for games.
