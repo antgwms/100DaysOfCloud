@@ -18,10 +18,10 @@ Module 2: Compute in the Cloud:
 4. Directing traffic with Elastic Load Balancing
 5. Messaging and Queueing with AWS Simple Notification Service (SNS) & Simple Queueing Service (SQS)
 6. Additional compute services - Serverless computing:
-    AWS Lambda
-    Amazon Elastic Container Service (ECS) 
-    Amazon Elastic Kubernetes Service (EKS)
-    AWS Fargate - compute engine that manages serverless infrastructure
+    AWS Lambda,
+    Amazon Elastic Container Service (ECS),
+    Amazon Elastic Kubernetes Service (EKS),
+    AWS Fargate - compute engine that manages serverless infrastructure.
 
 <p align="center">
   <img src="Lambda.png">
