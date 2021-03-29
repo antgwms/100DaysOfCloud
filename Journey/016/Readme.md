@@ -1,52 +1,38 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
+## AWS Cloud Practitioner - COMPUTE IN THE CLOUD
 
-# New post title here
+I finished Module 2 of AWS Cloud Practitioner a few weeks ago... I must be more disciplined with my log!
 
-## Introduction
+## AWS Global Infrastructure
+<p align="center">
+  <img src="Lambda.png">
+</p>
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
 
 ## Prerequisite
 
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
+A background in IT helps, but not essential for AWS Cloud Practitioner.
+
+
+## Cloud progress
+
+Module 2: Compute in the Cloud:
+
+1. EC2 Instance Types
+2. Amazon EC2 Pricing
+3. EC2 Scaling 
+4. Directing traffic with Elastic Load Balancing
+5. Messaging and Queueing with AWS Simple Notification Service (SNS) & Simple Queueing Service (SQS)
+6. Additional compute services - Serverless computing:
+    AWS Lambda
+    Amazon Elastic Container Service (ECS) 
+    Amazon Elastic Kubernetes Service (EKS)
+    AWS Fargate - compute engine that manages serverless infrastructure
+
 
 ## Use Case
 
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
+EC2 can be used for hosting services, such as websites or private server for games while load balancing can manage demand. 
 
-## Cloud Research
+Hosting multiple services with high traffic can be challenging, but managing as microservice can provide resiliance and AWS SNS & SQS will ensure that requests for services still flow even if a service or application is down.
 
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
-
-## Try yourself
-
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 3 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-## ☁️ Cloud Outcome
-
-✍️ (Result) Describe your personal outcome, and lessons learned.
-
-## Next Steps
-
-✍️ Describe what you think you think you want to do next.
-
-## Social Proof
-
-✍️ Show that you shared your process on Twitter or LinkedIn
-
-[link](link)
+Containers such as Docker and Kubenetes facilitates running and scaling applications on AWS, although you don't specifically need AWS to do that but it's nice when using AWS compute services in your application.
