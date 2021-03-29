@@ -2,11 +2,6 @@
 
 I finished Module 2 of AWS Cloud Practitioner a few weeks ago... I must be more disciplined with my log!
 
-## AWS Global Infrastructure
-<p align="center">
-  <img src="Lambda.png">
-</p>
-
 
 ## Prerequisite
 
@@ -28,6 +23,9 @@ Module 2: Compute in the Cloud:
     Amazon Elastic Kubernetes Service (EKS)
     AWS Fargate - compute engine that manages serverless infrastructure
 
+<p align="center">
+  <img src="Lambda.png">
+</p>
 
 ## Use Case
 
