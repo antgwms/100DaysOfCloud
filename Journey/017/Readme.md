@@ -1,52 +1,28 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
+## AWS Cloud Practitioner:Module 3 - Global Infrastructure and Reliability
 
-# New post title here
+Module 3 explained the AWS Global Infrastructure with geographical regions which include multiple avilability zones that can provide network redudancy and service reliability. Each Region meets national data governance requirements/legislation.
 
-## Introduction
+<p align="center">
+  <img src="availability-zones.png">
+</p>
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
+Edge locations can be set up in any reqion to cache an instance closer to customers, thus providing lower latency and service quality.  Useful for services with multinational customers. For example, a company in Brazil with a large customer base in China could spin up an Edge location in China - see image below:
 
-## Prerequisite
+<p align="center">
+  <image src="edge-locations">
+</P>
 
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
+## ☁️ How to Provision Resource
 
-## Use Case
+AWS Infrastructure can be provisioned via multiple tools:
 
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
+1. AWS Console - Set up infrastrucuure using the GUI
+2. AWS CLI - set up via commands
+3. Software Development Kits - for developers
 
-## Cloud Research
+Managing Infrastrucure via code aka 'infrastrucutre as code' provides much higher efficiency to infrastructure management via command line scripts and configuration settings for auto scaling and load balancing. AWS have a couple of tools for that:
 
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
+4. AWS Elastic Beanstalk 
+5. AWS Cloud Formation 
 
-## Try yourself
-
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 3 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-## ☁️ Cloud Outcome
-
-✍️ (Result) Describe your personal outcome, and lessons learned.
-
-## Next Steps
-
-✍️ Describe what you think you think you want to do next.
-
-## Social Proof
-
-✍️ Show that you shared your process on Twitter or LinkedIn
-
-[link](link)
+## End of module 3.
