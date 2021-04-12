@@ -9,7 +9,7 @@ Module 3 explained the AWS Global Infrastructure with geographical regions which
 Edge locations can be set up in any region to cache an instance closer to customers, thus providing lower latency and better quality of service.  Useful for services with multi-national customers. For example, a company in Brazil with a large customer base in China could spin up an Edge location in China - see image below:
 
 <p align="center">
-  <image src="edge-locations">
+  <image src="edge-locations.png">
 </P>
 
 ## ☁️ How to Provision Resource
