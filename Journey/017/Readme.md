@@ -17,7 +17,7 @@ Edge locations can be set up in any region to cache an instance closer to custom
 AWS Infrastructure can be provisioned via multiple tools:
 
 1. AWS Console - Set up infrastructure using the GUI
-2. AWS CLI - better for managing multiple instances, via Command Line using yaml, json & 
+2. AWS CLI - better for managing multiple instances, via Command Line using yaml or json
 3. Software Development Kits - for developers
 
 Managing Infrastructure via code aka 'infrastructure as code' provides much higher efficiency to infrastructure management via command line scripts and configuration settings for auto scaling, load balancing and health monitoring. AWS have a couple of tools for that:
