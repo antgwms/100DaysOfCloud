@@ -1,52 +1,58 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
+# AWS Cloud Practitioner:Module 4 - Networking
+AWS networking was completed after a mid-module hiatus building a new PC, but I'm back on my journey to the cloud.
 
-# New post title here
+The AWS networking module explains the basics of networking; networks and sub-networks (subnets), within AWS Virtual Private Cloud (VPC) that can be Public or Private (by default). Module explaines how to connect to a VPC and use other resources. 
 
-## Introduction
+## ☁️ Public Cloud
+Public cloud (network) requires an Internet gateway to allow Internet traffic to reach resources in the VPC, for an example an EC2 resource.
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
+<p align="center">
+  <img src="AWS-VPC.png">
+</p>
 
-## Prerequisite
 
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
+## ☁️ Private Cloud
+A Private cloud (network) requires a VPN connection to a Virtual Private Gateway to allow private approved network access to resources or information. AWS Direct Connect is a media between an On Prem data centre environment and the cloud. 
 
-## Use Case
+<p align="center">
+  <image src="AWS-VPC-DirectConnect.png">
+</P>
 
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
 
-## Cloud Research
+## Subnets and Access Control Lists - Security
+Network addresses are divided into sub-networks to segregate resources based on operational requirements and security.
 
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
+Network Access Control Lists (ACLs) is a virtual firewall that filters packets i.e. the inbound and outbound traffic for each subnet, for example:
+- Allow all inbound & outbound traffic (default ACL setting)
+- Allow all inbound, deny outbound
+- Deny all inbound & outbound
 
-## Try yourself
+<p align="center">
+  <image src="AWS-cloud-subnets.png">
+</P>
 
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
+### Stateless packet filtering
+Network ACLs check all inbound and outbound packets, meaning they are Stateless -- 'remember nothing, check everything'.
 
-### Step 1 — Summary of Step
+### Stateful packet filtering - Security Groups
+Security groups is an important function in AWS. A security group is a virtual firewall that controls inbound and outbound traffic, for an example in an EC2 instance. Security groups can be assigned to multiple instances, making security management easier. 
 
-![Screenshot](https://via.placeholder.com/500x300)
+If you don't assign a security group for a VPC, it defaults to 'Allow all outbound, Deny all inbound'.
 
-### Step 1 — Summary of Step
+<p align="center">
+  <image src="AWS-VPC-security-groups.png">
+</P>
 
-![Screenshot](https://via.placeholder.com/500x300)
+## Global Networking - DNS
+The concluding section for this Networking module is the **Domain Name System (DNS)**. DNS is a directory of Internet IP addresses and corresponding web address, used to route traffic on the Internet. 
 
-### Step 3 — Summary of Step
+### Amazon Route 53 - DNS web service
+Amazon Route 53 is the AWS DNS Service that allows Internet users to connect to AWS resources, e.g. a EC2 instance. You can also register Domain Names and manage existing domains by transferring domains from other registrars to manage everything from a single source. 
 
-![Screenshot](https://via.placeholder.com/500x300)
+Amazon Route 53 can coexist with Amazon Cloudfront (a Content Delivery Network (CDN)) at Network Edge Locations to provide a low latency, fast & secure delivery of service to customers. Amazon Cloudfront integrates with all required AWS resources and services.
 
-## ☁️ Cloud Outcome
+<p align="center">
+  <image src="AWS-VPC-Route53-Cloudfront.png">
+</p>
 
-✍️ (Result) Describe your personal outcome, and lessons learned.
-
-## Next Steps
-
-✍️ Describe what you think you think you want to do next.
-
-## Social Proof
-
-✍️ Show that you shared your process on Twitter or LinkedIn
-
-[link](link)
+# End of module 4 - Networking.
