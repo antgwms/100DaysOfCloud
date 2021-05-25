@@ -31,7 +31,7 @@ I've started the challenge after deciding my future is cloud engineering, a doma
 - [ ] ☁️ 16 > [AWS Cloud Practitioner Essentials - Cloud Compute (EC2)](Journey/016/Readme.md)
 - [ ] ☁️ 17 > [AWS Cloud Practitioner Essentials - Global Infrastructure & Reliability](Journey/017/Readme.md)
 - [ ] ☁️ 18 > [AWS Cloud Practitioner Essentials - Networking](Journey/018/Readme.md)
-- [ ] ☁️ 19 > [](Journey/019/Readme.md)
+- [ ] ☁️ 19 > [AWS Cloud Practitioner Essentials - Databases](Journey/019/Readme.md)
 - [ ] ☁️ 20 > [](Journey/020/Readme.md)
 
 ## Crossing the bridge
